@@ -1,5 +1,5 @@
 #!/bin/sh
-TARGET="https://cliente-lan-qypd.onrender.com"
+TARGET="https://servidor-web-dmz-julian-valentina.onrender.com"
 
 echo "=== SIMULACIÓN: GENERANDO TRÁFICO MASIVO HTTP ==="
 for i in $(seq 1 30); do
