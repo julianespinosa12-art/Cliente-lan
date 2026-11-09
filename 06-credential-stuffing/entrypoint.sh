@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Objetivo de la prueba en la DMZ
-TARGET="https://servidor-web-dmz.onrender.com"
+TARGET="https://zero6-relleno-de-credenciales-julian.onrender.com"
 
 # Lista reducida para simular Credential Stuffing / Fuerza Bruta
 USUARIOS="admin root user docente gestor"
